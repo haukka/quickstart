@@ -1,0 +1,14 @@
+{
+    "name": "json-server",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node index.js",
+        "tsc": "tsc",
+        "tsc:w": "tsc -w"
+    },
+    "dependencies": {
+    "express": "4.13.4",
+    "path": "0.12.7",
+    "fs": "0.0.2"
+    }
+}

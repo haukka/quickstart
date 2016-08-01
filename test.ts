@@ -128,7 +128,7 @@ var obj = {
 
 test.Get("http://json-server.azurewebsites.net/api/users"); //GET
 
-test.GetOne("http://json-server.azurewebsites.net/api/1"); // GET one
+test.GetOne("http://json-server.azurewebsites.net/api/users/1"); // GET one
 
 //test.Delete("http://localhost:3000/users/2");  // DELETE
 
